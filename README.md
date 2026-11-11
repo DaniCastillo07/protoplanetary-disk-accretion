@@ -38,6 +38,3 @@ python -m pip install -r requirements.txt
 
 **MassAge:** el repositorio incluye únicamente scripts del análisis de la tesis que generan entradas o procesan salidas de MassAge; **no redistribuye el código interno de la herramienta MassAge**.
 
-## Verificación
-
-Se comprobó sintácticamente que los 15 archivos de Python se pueden analizar con `ast.parse`. No se reprodujeron los resultados científicos porque no se adjuntaron todos los datos de entrada ni las dependencias para ejecutarlos.
